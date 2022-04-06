@@ -1,16 +1,17 @@
-# weatherapiapp
+##Лац Артем
 
-A new Flutter project.
+##Тестовое задание Mobile Flutter Weather Application
 
-## Getting Started
+#Описание проекта: 
+Использованы: Bloc, Intl, Hive, (google fonts, http, equtable)
 
-This project is a starting point for a Flutter application.
+#Подготовительные действия (установки, настройки и т.д) для успешной работы проекта:
+1) Убедиться, что необходимые библиотеки установлены (flutter pub get),
+2) Желательно Android Sdk 31 (min - 23), gradle 7.4.2, gradle plugin 7.1.2,
+(Делал проект в Android Studio, не знаю, что по настройкам для VS)
 
-A few resources to get you started if this is your first Flutter project:
+#Информация о доступах (логины/пароли и т.д.) или инструкция как их получить:
+Все универсально доступно
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Описание, как запустить ваш проект:
+Скачать (добавить в студию) репозиторий, обновить при необходимости описанное выше, запустить на устройстве (сам тестировал на Android)
