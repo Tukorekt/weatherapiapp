@@ -1,0 +1,17 @@
+{
+  "title": "Weather app",
+  "chooseCity" : "Choose city",
+  "search" : "Search",
+  "enterName" : "Enter name",
+  "addCity" : "Add",
+  "temp" : "Temp",
+  "desc" : "Desc",
+  "searchOther" : "Search other",
+  "more" : "More",
+  "error" : "Error. City by this name can't be found",
+  "back" : "Back",
+  "lang" : "en",
+  "yar" : "Yaroslavl",
+  "msk" : "Moscow",
+  "kzn" : "Kazan"
+}

@@ -1,0 +1,34 @@
+name: weatherapiapp
+description: A new Flutter project.
+
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.4
+  flutter_bloc: ^8.0.1
+  http: ^0.13.4
+  equatable: ^2.0.3
+  intl: ^0.17.0
+  google_fonts: ^2.3.1
+  hive_flutter: ^1.1.0
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.4
+
+flutter:
+  uses-material-design: true
+flutter_intl:
+  enabled: true
